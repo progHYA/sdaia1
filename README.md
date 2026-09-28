@@ -30,16 +30,22 @@ The main objective of this project is to develop a machine learning model capabl
 Complete Project Flow
 
 Raw Reviews
+
 ↓
 Data Cleaning
+
 ↓
 Text Preprocessing
+
 ↓
 TF-IDF Feature Extraction
+
 ↓
 Train/Test Split
+
 ↓
 Logistic Regression
+
 ↓
 Prediction
 ↓
