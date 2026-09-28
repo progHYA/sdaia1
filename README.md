@@ -24,6 +24,5 @@ The project demonstrates a complete NLP workflow, starting from raw text data an
 The main objective of this project is to develop a machine learning model capable
 
 
+<img width="512" height="512" alt="natural-language-processing" src="https://github.com/user-attachments/assets/a7c0e151-97c1-45a2-8221-f8fcbbd5ca1b" />
 
-
-                    <img width="512" height="512" alt="natural-language-processing" src="https://github.com/user-attachments/assets/1848a35a-bae4-47ac-b4be-7512e6a1d49e" />
