@@ -47,12 +47,11 @@ Train/Test Split
 Logistic Regression
 
 ↓
-
 Prediction
-↓
 
+↓
 Evaluation
-↓
 
+↓
 New Review Classification
 
